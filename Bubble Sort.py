@@ -1,4 +1,4 @@
-# The input method is check(list, reverse = True/False) sort(list, reverse = True/False) or simply check(list) and sort(list) for default non reversed checking and sorting. [Different from the builtin list.sort()]
+# The input method is check(list, reverse = True/False) sort(list, reverse = True/False) or simply check(list) and sort(list) for default non reversed checking and sorting. [Different from the builtin list.sort() and sorted()]
 
 # The Checking algorithm
 
